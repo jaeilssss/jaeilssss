@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=3DDC84&height=150&section=header&text=&fontSize=30&rotate=5)
+![header](https://capsule-render.vercel.app/api?type=waving&color=3DDC84&height=150&section=header&text=🔥🧑🏻‍💻🔥&fontSize=50)
 
 ##### 기술 Tag🤓<br>
 
