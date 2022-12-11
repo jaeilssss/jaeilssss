@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### 🤓항상 사용자를 먼저 생각하는 개발자🤓<br>
 
-<img src="https://img.shields.io/badge/  Android-EAEAEA?style=flat-square&logo=Android&logoColor=#3DDC84"/> <img src="https://img.shields.io/badge/  Kotlin-5D5D5D?style=flat-square&logo=Kotlin&logoColor=#7F52FF"/>  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/> 
+<img src="https://img.shields.io/badge/  Android-EAEAEA?style=flat-square&logo=Android&logoColor=#3DDC84"/> <img src="https://img.shields.io/badge/  Kotlin-5D5D5D?style=flat-square&logo=Kotlin&logoColor=#7F52FF"/> <img src="https://img.shields.io/badge/%20Java-4C4C4C?style=flat-square"/>  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/> 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaeilssss)](https://github.com/jaeilssss/github-readme-stats)[![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=name4510)](https://solved.ac/name4510)
