@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=3DDC84&height=150&section=header&text=🔥🧑🏻‍💻🔥&fontSize=50)
 
-#### 🤓항상 사용자를 먼저 생각하는 개발자🤓<br>
+### 🤓항상 사용자를 먼저 생각하는 개발자🤓<br>
 
 <img src="https://img.shields.io/badge/  Android-EAEAEA?style=flat-square&logo=Android&logoColor=#3DDC84"/> <img src="https://img.shields.io/badge/  Kotlin-5D5D5D?style=flat-square&logo=Kotlin&logoColor=#7F52FF"/>  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/> 
 
