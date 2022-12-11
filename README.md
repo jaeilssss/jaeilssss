@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=3DDC84&height=150&section=header&text=항상%20사용자를%20먼저%20생각하는%20개발자&fontSize=30)
+![header](https://capsule-render.vercel.app/api?type=waving&color=3DDC84&height=150&section=header&text=&fontSize=30&rotate=5)
 
 ##### 기술 Tag🤓<br>
 
