@@ -1,12 +1,20 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=3DDC84&height=150&section=header&text=🔥🧑🏻‍💻🔥&fontSize=50)
-
 ## Jaeil jaeil 😀
 
-### Tech Stack
+## Tech Stack
 
-<img src="https://img.shields.io/badge/#6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+### FrameWork
+
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>  <img src="https://img.shields.io/badge/android-34A853?style=for-the-badge&logo=android&logoColor=white"/>
+
+### Language
+
+ <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">  <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+
+ ### ETC
+
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>  <img src="https://img.shields.io/badge/firebase-F2CB61?style=for-the-badge&logo=firebase&logoColor=white"/>
+ 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaeilssss)](https://github.com/jaeilssss/github-readme-stats)[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=name4510)](https://solved.ac/name4510)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=name4510)](https://solved.ac/name4510)
