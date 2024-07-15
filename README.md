@@ -13,7 +13,7 @@
 
 ### ETC
 
-<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>  <img src="https://img.shields.io/badge/firebase-F2CB61?style=for-the-badge&logo=firebase&logoColor=white"/>
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>  <img src="https://img.shields.io/badge/firebase-F2CB61?style=for-the-badge&logo=firebase&logoColor=white"/>  <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>  <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
  
 
 ## BackJoon Algorithm Tier
