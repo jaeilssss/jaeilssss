@@ -1,5 +1,5 @@
 
-# jaeil Jeong 😀
+# Jaeil Jeong 😀
 
 ## Tech Stack
 
