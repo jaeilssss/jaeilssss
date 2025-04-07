@@ -4,7 +4,8 @@
 ## Tech Stack
 
 ### FrameWork
-<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>  <img src="https://img.shields.io/badge/android-34A853?style=for-the-badge&logo=android&logoColor=white"/>  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white"/>
+<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>  <img
+src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white"/>  <img                                                                                                                             src="https://img.shields.io/badge/android-34A853?style=for-the-badge&logo=android&logoColor=white"/>  
 ### Language
 
  
