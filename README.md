@@ -19,3 +19,6 @@ src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAP
 
 ## BackJoon Algorithm Tier
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=name4510)](https://solved.ac/name4510)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaeilssss&layout=compact)
